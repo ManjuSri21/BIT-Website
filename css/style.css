@@ -1,0 +1,9 @@
+a img:hover {
+    filter: hue-rotate(200deg) saturate(200%);
+}
+
+/* Remove default caret/arrow */
+    .dropdown-toggle::after {
+      display: none !important;
+    }
+   
