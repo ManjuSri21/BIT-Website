@@ -1,3 +1,7 @@
+* {
+    font-family: cursive;
+}
+
 a img:hover {
     filter: hue-rotate(200deg) saturate(200%);
 }
