@@ -49,4 +49,4 @@ This is a mini website for **Bannari Amman Institute of Technology (BIT)**. It i
 - Browser (Chrome/Edge/Firefox) – Testing
 
 ## Workflow 
-<img width="1024" height="1536" alt="ChatGPT Image Jan 18, 2026, 12_40_56 PM" src="https://github.com/user-attachments/assets/621624d3-0da4-4548-a9a5-e7f6d0683528" />
+<img width="1024" height="1536" alt="Web development process flowchart" src="https://github.com/user-attachments/assets/f4b11f53-6417-4715-9a8b-02cf89527f92" />
